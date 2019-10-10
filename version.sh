@@ -25,7 +25,7 @@ export SSRR_LINK="https://github.com/pqguanyinli/shadowsocksr/archive/akkariiin/
 export SSRR_YUM_INIT="https://raw.githubusercontent.com/pqguanyinli/kcptun_for_ss_ssr/master/ssrr.init"
 export SSRR_APT_INIT="https://raw.githubusercontent.com/pqguanyinli/kcptun_for_ss_ssr/master/ssrr_apt.init"
 # KCPTUN
-export KCPTUN_VER=20190718
+export KCPTUN_VER=20190924
 export KCPTUN_AMD64_LINK="https://github.com/xtaci/kcptun/releases/download/v${KCPTUN_VER}/kcptun-linux-amd64-${KCPTUN_VER}.tar.gz"
 export KCPTUN_386_LINK="https://github.com/xtaci/kcptun/releases/download/v${KCPTUN_VER}/kcptun-linux-386-${KCPTUN_VER}.tar.gz"
 export KCPTUN_INIT="https://raw.githubusercontent.com/pqguanyinli/kcptun_for_ss_ssr/master/kcptun.init"
